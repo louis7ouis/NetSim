@@ -35,3 +35,7 @@ NetSim ist ein kostenloser Netzwerk-Simulator für Windows, entwickelt speziell 
 ## Website
 
 [louis7ouis.github.io/NetSim](https://louis7ouis.github.io/NetSim)
+
+## Sicherheit
+
+✅ [VirusTotal: 0/70 Antiviren — Keine Bedrohung erkannt](https://www.virustotal.com/gui/file/c3b6cc32d4c40d921d1dc7ba2f805ef0249b17cc3c41c045fe7683666458eaac/detection)
