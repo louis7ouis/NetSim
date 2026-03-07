@@ -2,7 +2,7 @@
 
 **Netzwerk Simulator für Windows — moderner als Filius, kein Java nötig.**
 
-NetSim ist ein kostenloser Netzwerk-Simulator für Windows, entwickelt speziell für Schüler und Auszubildende. Keine Installation, kein Java — einfach `.exe` starten und loslegen.
+NetSim ist ein kostenloser Netzwerk-Simulator für Windows, entwickelt speziell für Schüler und Auszubildende. Kein Installer, kein Java — einfach Setup starten und loslegen.
 
 ---
 
@@ -29,3 +29,9 @@ NetSim ist ein kostenloser Netzwerk-Simulator für Windows, entwickelt speziell 
 | Terminal mit ping, traceroute | ✅ | ✅ |
 | DNS, DHCP, Webserver Apps | ✅ | ✅ |
 | Kostenlos | ✅ | ✅ |
+
+---
+
+## Website
+
+[louis7ouis.github.io/NetSim](https://louis7ouis.github.io/NetSim)
